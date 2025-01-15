@@ -1,16 +1,3 @@
-# By submitting this assignment, I agree to the following:
-#   "Aggies do not lie, cheat, or steal, or tolerate those who do."
-#   "I have not given or received any unauthorized aid on this assignment."
-#
-# Names:        Nune Papoyan
-#               Veronica O'Neill
-#               Daniel Meza
-#               Sundeep Chidambaram
-# Section:      559
-# Assignment:   LAB: Final Project
-# Date:         December 07, 2024
-
-
 # importing necessary libraries
 import matplotlib.pyplot as plt
 from turtle import Turtle as T, done, Screen
